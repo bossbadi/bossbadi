@@ -1,7 +1,7 @@
 ### What's up 👋
 I am bossbadi.
 
-- 🤖 I’m currently managing 4 verified Discord bots and a 100+ member Discord server.
+- 🤖 I’m currently managing 4 verified Discord bots and a 200+ member Discord server.
 - 🧠 I’m currently learning artificial intelligence with scikit-learn, Keras, and TensorFlow.
 - 😅 I’m looking for a free hosting server for my bots. My free trial periods won't last forever!
 - 💬 Ask me about Python 3. I am most experienced with Discord.py but I know other modules as well.
