@@ -10,7 +10,7 @@ I am bossbadi.
 - ⚡ Fun fact: I play Geometry Dash and I'm kind of good at it. Check out my [profile](https://gdbrowser.com/u/bossbadi).
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossbadi&layout=compact)
-
+[![Join bossbadi's server](https://discord.com/api/guilds/712323497380020314/widget.png?style=banner3)](https://discord.gg/rzDqQqD)
 
 ### The bots
 [![botbadi](https://top.gg/api/widget/servers/753718230333522131.svg)](https://top.gg/bot/753718230333522131)
