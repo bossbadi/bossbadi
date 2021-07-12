@@ -1,13 +1,10 @@
 ### What's up 👋
-I am bossbadi.
 
 - 🤖 I manage four verified Discord bots and a 200+ member Discord server.
 - 🧠 I'm currently learning artificial intelligence and day trading.
-- 💻 I look for free hosting servers for my bots. Free trials don't last forever!
 - 💬 Ask me about Python 3. I am most experienced with Discord.py.
 - 📫 Contact me on Discord at [bossbadi#3371](https://discord.com/users/712323326575378562) or join my [Discord server](https://discord.gg/rzDqQqD).
 - 🙂 Pronouns: he/him
-- ⚡ Fun fact: I play Geometry Dash and I'm kind of good at it. Check out my [profile](https://gdbrowser.com/u/bossbadi).
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossbadi&layout=compact)
 [![Join bossbadi's server](https://discord.com/api/guilds/712323497380020314/widget.png?style=banner3)](https://discord.gg/rzDqQqD)
