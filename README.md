@@ -1,7 +1,7 @@
 ### What's up 👋
 
 - 🤖 I manage four verified Discord bots and a 1k+ member Discord server.
-- 🧠 I'm currently learning artificial intelligence and day trading.
+- 🧠 I'm currently learning artificial intelligence and corporate finance.
 - 💬 Ask me about Python 3. I am most experienced with Discord.py.
 - 📫 Contact me on Discord at [bossbadi#3371](https://discord.com/users/712323326575378562) or join my [Discord server](https://discord.gg/rzDqQqD).
 - 🙂 Pronouns: he/him
