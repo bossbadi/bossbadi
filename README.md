@@ -1,16 +1,13 @@
-### What's up 👋
+# Hi! My name is bossbadi. 👋
+[![wakatime](https://wakatime.com/badge/user/3c642341-d992-43b5-b53c-a065f617e8a9.svg)](https://wakatime.com/@3c642341-d992-43b5-b53c-a065f617e8a9)
 
 - 🤖 I manage four verified Discord bots and a 1k+ member Discord server.
-- 🧠 I'm currently learning artificial intelligence and corporate finance.
-- 💬 Ask me about Python 3. I am most experienced with Discord.py.
+- 💬 Ask me about Python 3. I am most experienced with the Discord.py library.
 - 📫 Contact me on Discord at [bossbadi#3371](https://discord.com/users/712323326575378562) or join my [Discord server](https://discord.gg/rzDqQqD).
 - 🙂 Pronouns: he/him
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossbadi&layout=compact)
-[![Join bossbadi's server](https://discord.com/api/guilds/712323497380020314/widget.png?style=banner3)](https://discord.gg/rzDqQqD)
+## Languages used in the past week
+![](https://wakatime.com/share/@bossbadi/e3ea9d0f-a283-49fb-a580-e41d9f92104c.svg)
 
-### The bots
-[![botbadi](https://top.gg/api/widget/servers/753718230333522131.svg)](https://top.gg/bot/753718230333522131)
-[![BossBeats](https://top.gg/api/widget/servers/777687606817062972.svg)](https://top.gg/bot/777687606817062972)
-[![NumericBoss](https://top.gg/api/widget/servers/778450224904536067.svg)](https://top.gg/bot/778450224904536067)
-[![ImageBoss](https://top.gg/api/widget/servers/800542737236754443.svg)](https://top.gg/bot/800542737236754443)
+## Now playing on Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wpnnbg6rjfr5oe4txdksqwhmf&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wpnnbg6rjfr5oe4txdksqwhmf&redirect=true)
