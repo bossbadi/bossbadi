@@ -7,7 +7,8 @@
 - 🙂 Pronouns: he/him
 
 ## Languages used in the past week
-![](https://wakatime.com/share/@bossbadi/e3ea9d0f-a283-49fb-a580-e41d9f92104c.svg)
+
+<img width="50%" src="https://wakatime.com/share/@bossbadi/f5b87aa2-87f9-41ad-8c08-0532e9bbf219.svg">
 
 ## Now playing on Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wpnnbg6rjfr5oe4txdksqwhmf&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wpnnbg6rjfr5oe4txdksqwhmf&redirect=true)
