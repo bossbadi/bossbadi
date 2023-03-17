@@ -4,7 +4,6 @@
 - 🤖 I manage four verified Discord bots and a 1k+ member Discord server.
 - 💬 Ask me about Python 3. I am most experienced with the Discord.py library.
 - 📫 Contact me on Discord at [bossbadi#3371](https://discord.com/users/712323326575378562) or join my [Discord server](https://discord.gg/rzDqQqD).
-- 🙂 Pronouns: he/him
 
 ## Languages used in the past week
 
