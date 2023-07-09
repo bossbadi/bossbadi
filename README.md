@@ -7,7 +7,7 @@
 
 ## Languages used in the past week
 
-<img width="50%" src="https://wakatime.com/share/@bossbadi/f5b87aa2-87f9-41ad-8c08-0532e9bbf219.svg">
+<img width="50%" src="https://wakatime.com/share/@bossbadi/cabc2f74-b5ee-47da-afb4-74b6df84d17e.svg">
 
 ## Now playing on Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wpnnbg6rjfr5oe4txdksqwhmf&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wpnnbg6rjfr5oe4txdksqwhmf&redirect=true)
