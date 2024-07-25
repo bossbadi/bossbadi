@@ -1,7 +1,7 @@
 # Hi! My name is bossbadi. 👋
 [![wakatime](https://wakatime.com/badge/user/3c642341-d992-43b5-b53c-a065f617e8a9.svg)](https://wakatime.com/@3c642341-d992-43b5-b53c-a065f617e8a9)
 
-- 🤖 I manage four verified Discord bots and a 1k+ member Discord server.
+- 🤖 I manage four verified Discord bots and a 2k+ member Discord server.
 - 💬 Ask me about Python 3. I am most experienced with the Discord.py library.
 - 📫 Contact me on Discord at [@bossbadi](https://discord.com/users/712323326575378562) or join my [Discord server](https://discord.gg/rzDqQqD).
 
